@@ -1,0 +1,7 @@
+/app/_pycache_
+/app/api/_pycache_
+/bin
+/include
+/lib
+*.pyc
+*.cfg
